@@ -61,14 +61,7 @@ This machine learning project explores borrower data to predict defaults and sup
 
 ## 🧠 Results
 
-| Model              | Accuracy | Precision | Recall | F1-score |
-|-------------------|----------|-----------|--------|----------|
-| Logistic Regression | 80%   | 0.65      | 0.57   | 0.61     |
-| Random Forest       | 79%   | 0.62      | 0.51   | 0.56     |
-| XGBoost             | 77%   | 0.57      | 0.52   | 0.54     |
 
-✅ **Best Model:** Logistic Regression
-✅ **Top Features:** Tenure, Contract Type, Total and Monthly Charges
 
 ---
 
