@@ -1,4 +1,4 @@
-# 🧑‍💼📉 Loan Default Prediction
+# 🏦📉 Loan Default Prediction
 Who is likely to default on a loan? What financial patterns signal default risk?  
 This machine learning project explores borrower data to predict defaults and support better lending decisions.
 
